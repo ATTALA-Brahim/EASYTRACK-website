@@ -1,0 +1,12 @@
+.home{
+    background-color: var(--main-color);
+    overflow: hidden; // to stop going to the left when we add items
+    
+}
+.home-section1{
+    flex:4;
+}
+.body {
+
+  display: flex;
+}

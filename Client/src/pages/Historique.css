@@ -1,0 +1,39 @@
+.hist{
+    flex: 4;
+    flex-direction: column;
+
+}
+.top{
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+   
+}
+.histtitle{
+    
+  font-size: 13px;
+  color: rgb(187, 186, 186);
+}
+.btn{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: #373464;
+    color: white;
+    cursor: pointer;
+}
+
+
+.userList {
+    flex: 4;
+  }
+  
+  
+
+  
